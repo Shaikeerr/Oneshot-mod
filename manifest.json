@@ -40,11 +40,11 @@
             {
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.wav"
+                    "sound/close_tab.mp3"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.wav"
+                    "sound/new_tab.mp3"
                 ]
             }
         }
