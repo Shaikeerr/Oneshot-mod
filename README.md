@@ -1,6 +1,11 @@
 # Comment installer l'extension sur OperaGX ? 
 ***
-- Télécharger le fichier "Oneshot-mod.crx"
+- Télécharger le fichier "Oneshot-mod.crx" dans les Releases 
+
+![Accéder au release en cliquant sur le bouton Release a droite](https://media.discordapp.net/attachments/1064539557728620574/1075376487261286410/image.png)
+
+![Télécharger le fichier "Oneshot-mod.crx"](https://media.discordapp.net/attachments/1064539557728620574/1075376745202593792/image.png?width=1440&height=207)
+
 - Rendez-vous sur le site "opera:extensions"
 - Glissez-Déposez le fichier "Oneshot-mod.crx" 
 
