@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "name": "Oneshot",
+    "description": "Remember, you only have oneshot",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Shaikeerr"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/text.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/text.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "sounds/text.mp3"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/text.mp3"
+                ]
+            }
+        }
+    }
+}
