@@ -35,17 +35,33 @@
                     "sounds/text.mp3"
                 ]
             },
-
+            
             "browser_sounds":
             {
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sounds/close_tab.mp3"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sounds/new_tab.mp3"
                 ]
+            },
+
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.gif",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/light.gif",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#0B000E"
+                }
             }
         }
     }
