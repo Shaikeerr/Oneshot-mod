@@ -52,13 +52,15 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.gif",
+                    "image": "wallpaper/dark.webm",
+                    "first_frame": "wallpaper/dark.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/light.gif",
+                    "image": "wallpaper/light.webm",
+                    "first_frame": "wallpaper/light.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
