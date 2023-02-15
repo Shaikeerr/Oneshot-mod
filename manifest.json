@@ -19,11 +19,7 @@
 
             "background_music":
             [
-                "background_music/To_Sleep.mp3",
-                "background_music/Phosphor.mp3",
-                "background_music/Alula.mp3",
-                "background_music/On_Little_Cat_Feet.mp3",
-                "background_music/Eleventh_Hour.mp3"
+                "background_music/bg_music.mp3"
             ],
 
             "keyboard_sounds":
